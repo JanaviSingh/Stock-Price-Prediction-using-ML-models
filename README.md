@@ -102,7 +102,4 @@ Contributions are welcome!
 
 **Janavi Singh**
 
-* Email: [janavi.singh@example.com](mailto:janavi.singh@example.com)
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-
 ---
